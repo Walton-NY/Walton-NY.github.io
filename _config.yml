@@ -1,4 +1,4 @@
-# Dependencies
+#Dependencies
 markdown:         redcarpet
 pygments:         true
 
@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Waltonian
+tagline:          'Building Community in Walton, NY'
+description:      'Building community in Walton, NY. Brought to you by <a href="https://twitter.com/c_t_ogden" target="_blank">Chris Ogden</a>.'
+url:              http://walton-ny.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Chris Ogden'
+  url:            https://twitter.com/c_t_ogden
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Walton-NY/Walton-NY
