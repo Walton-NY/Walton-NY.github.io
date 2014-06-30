@@ -1,0 +1,25 @@
+#Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Waltonian
+tagline:          'Building Community in Walton, NY'
+description:      'Building community in Walton, NY. Brought to you by <a href="https://twitter.com/c_t_ogden" target="_blank">Chris Ogden</a>.'
+url:              http://walton-ny.github.io/
+baseurl:          /
+
+author:
+  name:           'Chris Ogden'
+  url:            https://twitter.com/c_t_ogden
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Walton-NY/Walton-NY
